@@ -1,8 +1,8 @@
-package fr.paris10.pascalpoizat.templates.javaproject;
+package fr.paris10.sankarvijay.templates.javaproject;
 
 /**
  * template-java-project
- * Copyright 2015 pascalpoizat
+ * Copyright 2015 sankarvijay
  * <p/>
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.

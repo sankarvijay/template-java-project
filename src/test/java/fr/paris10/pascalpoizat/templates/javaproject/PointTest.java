@@ -1,10 +1,10 @@
-package fr.paris10.pascalpoizat.templates.javaproject;
+package fr.paris10.sankarvijay.templates.javaproject;
 
 import static org.testng.Assert.*;
 
 /**
  * template-java-project
- * Copyright 2015 pascalpoizat
+ * Copyright 2015 sankarvijay
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
